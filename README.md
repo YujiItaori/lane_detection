@@ -42,7 +42,7 @@ LANE_DETECTION/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/YujiItaori/lane_detection.git
 cd LANE_DETECTION
 ```
 
